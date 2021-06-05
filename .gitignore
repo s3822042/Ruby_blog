@@ -44,3 +44,10 @@ node_modules/*
 
 #Ignore git_source
 .git
+
+#Ignore npm
+package-lock.json
+
+
+#Ignore yarn
+yarn.lock
